@@ -1,4 +1,4 @@
-# Flix
+https://github.com/janetosawere7/Flixsterapp/blob/master/FlixsterappWalkthrough.gif# Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
@@ -22,9 +22,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO:// `YOUR_GIF_URL_HERE`
+`TODO:// `https://github.com/janetosawere7/Flixsterapp/blob/master/FlixsterappWalkthrough.gif`
 
-<img src="" width=250><br>
+<img src="https://github.com/janetosawere7/Flixsterapp/blob/master/FlixsterappWalkthrough.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
