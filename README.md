@@ -57,9 +57,9 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-`TODO://` `YOUR_GIF_URL_HERE`.
+`TODO://` https://github.com/janetosawere7/Flixsterapp/blob/master/FlixsterappWalkthroughweek2.gif.
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/janetosawere7/Flixsterapp/blob/master/FlixsterappWalkthroughweek2.gif" width=250><br>
 
 ### Notes
 
