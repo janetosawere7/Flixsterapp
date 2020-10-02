@@ -2,6 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
@@ -21,17 +22,17 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginStart="5dp"
-        android:textSize="24sp"
         android:layout_toEndOf="@+id/ivPoster"
-        android:text="Fast and Furious Present : Hobbs and Shaw" />
+        android:text="Fast and Furious Present : Hobbs and Shaw"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/tvOverview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTitle"
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
-        android:layout_below="@+id/tvTitle"
         android:layout_toEndOf="@id/ivPoster"
         android:text="TextView"
         tools:text="A spinoff of The Fate of the Furious, focusing on Johnson's US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with statham's Deckard shaw." />
